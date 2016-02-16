@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+void CheckBoard(char & board[3][3]){
+
+}
+
+int main(){
+	char board [3][3] = {{' ',' ',' '},{' ',' ',' '},{' ',' ',' '}};
+	CheckBoard(board);
+
+}
